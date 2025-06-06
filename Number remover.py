@@ -9,28 +9,29 @@ while True:
     if  e in a:
 
         (a.discard(e))
-        print('Your choosen number is:' ,e)
+        print('Your choosen number is:' ,e) 
         print('The updated list is:',a)
         print('\nIf you want to continue press 1, else press 0')
         choice = int(input('Enter your choice:'))
         print('\n')
         if choice == 0:
-            break    
+            break
     
-    else:
+    else: 
         
         print('Your choosen number is:' ,e)
         print(' The number is not in the set')
+
+
+
+
+ 
+
+
+                                   
+
         
 
-   
-
-
-    
-
-
-
-    
 
 
 
@@ -46,5 +47,4 @@ while True:
 
 
 
-
-
+        
