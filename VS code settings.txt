@@ -1,6 +1,0 @@
-"workbench.editor.empty.hint": "hidden",
-    "files.associations": {
-        "*.py": "python"
-    },
-    "code-runner.runInTerminal": true,
-    "files.autoSave": "afterDelay"
