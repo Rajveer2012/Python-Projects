@@ -68,9 +68,7 @@
 # print(l)
 # print
 
-
-
-
+# print(palindrome := lambda s: s == s[::-1])
 
 
 

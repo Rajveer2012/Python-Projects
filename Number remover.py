@@ -7,7 +7,7 @@ while True:
     e = int(input('Enter a number which you want to remove:'))
 
     if  e in a:
-
+    
         (a.discard(e))
         print('Your choosen number is:' ,e) 
         print('The updated list is:',a)

@@ -15,14 +15,22 @@
 #     print(d.get(key, "None"))
 
 
-a = int(input("Enter a number(Greater than 0): "))
-b = print()  
+# a = int(input("Enter a number(Greater than 0): "))
+# b = print()  
+
+# b = "Enter a number"
+
+# print(b.title())
+# # print(b.)
+
+# print(b.isalpha())
 
 
 
-
-
-
+#User function Template for python3
+def reverseString(s):
+    # Write your code below to reverse s and return it
+    return s[::-1]
 
 
 
