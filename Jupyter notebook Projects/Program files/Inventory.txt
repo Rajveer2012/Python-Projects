@@ -1,0 +1,20 @@
+1,5 Star,10,100
+2,Milky Bar,15,169
+3,KitKat,20,183
+4,Candy,25,298
+5,Cadbury Dairy Milk,30,150
+6,Nestle Munch,35,70
+7,Amul Chocolate,40,90
+8,Hershey's Kisses,45,160
+9,Galaxy,50,170
+10,Lindt Excellence,55,200
+11,Ferrero Rocher,60,250
+12,Toblerone,65,220
+13,Godiva,70,300
+14,Perk,75,80
+15,Bar One,80,85
+16,Cadbury Silk,85,185
+17,Celebrations,90,280
+18,Temptations,95,120
+19,Rocher,100,260
+20,Crunch,105,0
